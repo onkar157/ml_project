@@ -7,4 +7,6 @@ catboost
 xgboost
 os
 dill
+Flask
+pickle
 -e .
