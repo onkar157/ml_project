@@ -40,10 +40,13 @@ The project follows these major steps:
 ### Modeling and Evaluation
 Various machine learning models were used to predict student performance:
 
-- Linear Regression
+- Decision Tree
 - Random Forest
-- XGBoost
-- Support Vector Machine (SVM)
+- Gradient Boosting
+- Linear Regression
+- XGBoost Regressor
+- Cataboost Regressor
+- Adaboost Regressor
  
 ### Evaluation Metrics:
 
